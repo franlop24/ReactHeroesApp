@@ -2,6 +2,8 @@ import React from 'react'
 
 export const SearchScreen = () => {
   return (
-    <div>SearchScreen</div>
+    <div>
+        <h1>SearchScreen</h1>
+    </div>
   )
 }
